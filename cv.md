@@ -1,4 +1,4 @@
-#Demyan Shehovcov
+# Demyan Shehovcov
 * **Contacts**:
   * Discord: Shizopat
   * Email: coolmaildontforgetpasswrd@gmail.com
@@ -7,16 +7,16 @@
   * CSS3
   * GIT
   * Figma
-##Code example:
+## Code example:
 ```javascript
 function multiply(a, b){
   return a * b
 }
 ```
-##Projects: 
+## Projects: 
 **This CV is my first project.**
-##Education: 
+## Education: 
 **I am still studying at school.**
-##English: 
+## English: 
 **A2 - Pre-Intermediate**
 
