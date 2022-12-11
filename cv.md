@@ -1,8 +1,8 @@
 # Demyan Shehovcov
-* **Contacts**:
+## Contacts:
   * Discord: Shizopat
   * Email: coolmaildontforgetpasswrd@gmail.com
-* **Skills(in progress)**:
+## Skills(in progress):
   * HTML5
   * CSS3
   * GIT
