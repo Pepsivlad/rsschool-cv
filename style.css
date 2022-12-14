@@ -55,12 +55,14 @@ main {
   background-color: azure;
   padding-top: 50px;
   margin-bottom: auto;
-  display: flex;
-  justify-content: center;
 }
 
-figure {
-  margin: 0;
+.center-container {
+  margin: 0 auto;
+}
+
+section {
+  border-bottom: 1px solid #000;
 }
 
 .profile-picture {
@@ -68,7 +70,6 @@ figure {
   border: 1px solid #000;
 }
 
-figcaption {
+h1 {
   font-size: 24px;
-  text-align: center;
 }
