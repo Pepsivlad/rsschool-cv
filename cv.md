@@ -6,7 +6,6 @@
   * HTML5
   * CSS3
   * GIT
-  * Figma
 ## Code example:
 ```javascript
 function multiply(a, b){
