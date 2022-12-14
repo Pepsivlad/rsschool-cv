@@ -15,6 +15,9 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .container {
@@ -46,4 +49,26 @@ header {
 .nav-link:hover {
   color: rgb(179, 214, 245);
   transition: 0.4s;
+}
+
+main {
+  background-color: azure;
+  padding-top: 50px;
+  margin-bottom: auto;
+  display: flex;
+  justify-content: center;
+}
+
+figure {
+  margin: 0;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  border: 1px solid #000;
+}
+
+figcaption {
+  font-size: 24px;
+  text-align: center;
 }
